@@ -1,0 +1,7 @@
+*config.ini
+*config_dev.ini
+*.ipynb_checkpoints/
+*.pyc
+*notebooks.log
+*__pycache__/
+*develop/
